@@ -2,7 +2,6 @@
 layout: "post"
 title: "Tale of two, whatever"
 date: "2020-04-14 23:20"
-author: Anon
 ---
 
 # A test post
