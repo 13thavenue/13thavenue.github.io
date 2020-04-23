@@ -22,7 +22,7 @@ minimal: false               # use simpler style
 # Menu
 
 navigation:
-  - {file: "index.html", icon: home}
+  - {file: "about.md", icon: home}
   - {file: "README.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
