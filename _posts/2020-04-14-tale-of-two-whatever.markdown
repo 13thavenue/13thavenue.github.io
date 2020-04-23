@@ -34,4 +34,3 @@ But the city wasn't really like that. London was changing so fast, fueled by fin
 By summer 2017, nothing felt more London, sadly, than the towering presence of the charred Grenfell Tower. Very early in the morning when it went up in flames, I remember smelling the smoke, miles away, through my bedroom's drafty windows. Strange, I thought, it almost smells like one of the neighbors is baking something, but shouldn't they be sleeping now?
 
 ![london grenfell](/assets/images/london-grenfell-bw.jpeg)
->>>>>>> 90555bdf6393d27c110cc213cb40242383740402
