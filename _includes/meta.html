@@ -6,7 +6,9 @@
   {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
   <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: date_format }}</time><br>
 
-  {% assign author = site.authors | where: 'short_name', page.author | first %}
+  <!-- {% assign author = site.authors | where: 'short_name', page.author | first %}
+  {% if author %} -->
+  <!-- {% assign author = site.authors | where: 'short_name', page.author | first %} -->
   {% if author %}
     by <a href="{{ author.url }}">{{ author.name }}</a>
   {% endif %}
