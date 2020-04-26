@@ -2,13 +2,14 @@
 layout: "post"
 title: "Tale of two, whatever"
 date: "2020-04-14 23:20"
-author: "anon1"
+author: "a1"
+excerpt_separator: <!--more-->
 ---
 
 # A test post
 Initially, I intended to use this post to experiment with Markdown, to see if _italics really do render like italics_, the size of headers, and things like that.
 
-I also wanted to test adding a photograph to a post and the first  photograph below, of London, happened to be on my desktop. I don't know why it was on my desktop. But the more that I look at it, the more that I think about the city's story in the 21st century so far: terrorist attacks, the silly William & Kate stuff, the 2011 riots, the optimism of the 2012 Olympics, the empty mansions of the global super-rich in Belgravia, Brexit, Grenfell, Boris Johnson with COVID.
+I also wanted to test adding a photograph to a post and the first  photograph below, of London, happened to be on my desktop. <!--more--> I don't know why it was on my desktop. But the more that I look at it, the more that I think about the city's story in the 21st century so far: terrorist attacks, the silly William & Kate stuff, the 2011 riots, the optimism of the 2012 Olympics, the empty mansions of the global super-rich in Belgravia, Brexit, Grenfell, Boris Johnson with COVID.
 
 One photo is not enough.
 
