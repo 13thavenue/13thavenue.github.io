@@ -24,6 +24,7 @@ minimal: false               # use simpler style
 navigation:
   - {file: "index.html", icon: home}
   - {file: "about.md", icon: address-card}
+  - {file: "authors.html", icon: home}
 
 external:                    # see http://fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
@@ -36,3 +37,7 @@ comments:
 
 plugins:
  - jekyll-feed
+
+collections:
+  authors:
+    output: true
