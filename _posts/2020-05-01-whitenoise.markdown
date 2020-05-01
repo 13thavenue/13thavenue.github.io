@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 _COVID rush hour_ (a haiku)
 
-No reason to buy  <!--more-->
+No reason to buy  <!--more-->  
 Messages for screens not seen  
 by past passersby.
 
