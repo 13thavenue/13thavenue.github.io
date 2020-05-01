@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "white-noise"
+title: "COVID rush hour"
 date: "2020-05-01 23:55:34 +0200"
 ---
 
