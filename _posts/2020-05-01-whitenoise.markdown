@@ -8,10 +8,8 @@ excerpt_separator: <!--more-->
 
 _COVID rush hour_ (a haiku)
 
-<!--more-->
-
-![rush hour](/assets/images/rome-rush-hour.jpeg)
-
-No reason to buy  
+No reason to buy  <!--more-->
 Messages for screens not seen  
 by past passersby.
+
+![rush hour](/assets/images/rome-rush-hour.jpeg)
