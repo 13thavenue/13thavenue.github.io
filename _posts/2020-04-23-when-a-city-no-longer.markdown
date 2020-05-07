@@ -12,3 +12,4 @@ If I start to think that the city isn't itself anymore, then I bring the city cl
 When I start to think that the city isn't itself anymore, I bring the city close. I try to remember standing in the Parthenon. City itself.  
 
   City itself.   
+  City itself. 
