@@ -9,4 +9,4 @@ _Saturday afternoon in a financial district_
 
 ![financial district](/assets/images/financial-district-bw.jpeg)
 
-On an overcast Saturday afternoon: the glass towers, the sleek benches for quick cigarettes, quick lunches, quick calls: it all felt so empty and pointless.
+The glass towers, the sleek benches for quick cigarettes, quick lunches, quick calls: it all felt so empty and pointless.
