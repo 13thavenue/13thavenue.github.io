@@ -2,11 +2,11 @@
 layout: post
 title: "Financial District"
 date: "2020-05-01 23:55:34 +0200"
-excerpt_separator: <!--more-->
+##excerpt_separator: <!--more-->
 ---
 
 _Saturday afternoon in a financial district_
 
 ![financial district](/assets/images/financial-district-bw.jpeg)
 
-On an overcast Saturday afternoon: the glass towers (no, it was the geometry of _everything_), the sleek benches for quick cigarettes, quick lunches, quick calls: it all felt so empty and pointless.
+On an overcast Saturday afternoon: the glass towers, the sleek benches for quick cigarettes, quick lunches, quick calls: it all felt so empty and pointless.
