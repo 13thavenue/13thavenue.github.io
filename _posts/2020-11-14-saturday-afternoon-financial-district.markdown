@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "COVID rush hour"
+title: "Financial District"
 date: "2020-05-01 23:55:34 +0200"
 excerpt_separator: <!--more-->
 ---
 
 _Saturday afternoon in a financial district_
 
-![financial district](/assets/images/financial-district-bw.jpg)
+![financial district](/assets/images/financial-district-bw.jpeg)
 
-On an overcast Saturday afternoon, absent of the hustle and bustle of global finance's self-importance (and actual importance), the glass towers, the sleek benches for quick cigarettes, quick lunches, quick calls: it all felt so empty, so tragically pointless.
+On an overcast Saturday afternoon: the glass towers (no, it was the geometry of _everything_), the sleek benches for quick cigarettes, quick lunches, quick calls: it all felt so empty and pointless.
